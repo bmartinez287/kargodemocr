@@ -1,6 +1,6 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
+title: "Servicios aduanales "
+subtitle: Conveniencia y seguridad.
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kargocr?
@@ -10,10 +10,13 @@ blurb:
     profits are reinvested in their communities.
 intro:
   heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  text: >
+    Kargo (Logística Integral en Transporte y Trámites) es un colectivo de
+    profesionales en la rama aduanal de los países de Centro América, con base
+    de operaciones en Costa Rica, bajo la empresa Costa Cargo Internacional S.A.
+
+
+    Ponemos nuestra experiencia y conocimientos a su disposición.  Le asesoramos durante todo el proceso.  Cuando somos nosotros quienes lo hacemos, le mantenemos siempre informado de la condición de su trámite.
 products:
   - image: img/illustrations-coffee.svg
     text: We sell green and roasted coffee beans that are sourced directly from
@@ -27,9 +30,8 @@ products:
       own beans or just bought your first french press, you’ll find a gadget to
       fall in love with in our shop.
 values:
-  heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  heading: MISION
+  text: Ofrecer servicios de logística de trámites aduanales y transporte, de
+    forma ágil, eficiente e integral, con costos óptimos, con tiempos de entrega
+    puntuales y con amplia noción servicio al cliente.
 ---
